@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="./public/assets/Netflix-live-one.png" alt="Netflix Live image" width="100%" height="100%">
 
+![](./screenshots/Netflix-live-one.png)
+
+<div align="center">
   <br>
   <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
     <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
@@ -9,17 +10,12 @@
 
 <br />
 
-<div align="center">
-  <img src="./public/assets/Netflix-live-two.png" alt="Netflix is Live" width="100%" height="100%">
-  <p align="center">Home Page</p>
-</div>
+![](./screenshots/Netflix-live-two.png)
 
-### **Youtube Video for step by step Demonstration**
+**Youtube Video for step by step Demonstration and website guide by Mr CloudBook**
 [![Video Tutorial](https://img.youtube.com/vi/pbGA-B_SCVk/maxresdefault.jpg)](https://www.youtube.com/watch?v=pbGA-B_SCVk)
 
-[WebPage Step by Step Guide by Mr CloudBook](https://mrcloudbook.com/netflix-clone-ci-cd-with-monitoring-email-devsecops/)
-
-
+[Step by Step Guide of this project](https://mrcloudbook.com/netflix-clone-ci-cd-with-monitoring-email-devsecops/)
 
 
 
