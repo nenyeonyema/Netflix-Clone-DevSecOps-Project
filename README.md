@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="./public/assets/Netflix-Clone-DevSecOps-pics.png
-" alt="Logo" width="100%" height="100%">
+  <img src="./public/assets/Netflix-Clone-DevSecOps-pics.png" alt="Logo" width="100%" height="100%">
 
   <br>
   <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
@@ -11,14 +10,18 @@
 <br />
 
 <div align="center">
-  <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
+  <img src="./public/assets/Netflix-live-one.png" alt="Logo" width="100%" height="100%">
   <p align="center">Home Page</p>
 </div>
 
-# **Youtube Video and website for step by step Guide for the project**
-[![Video Tutorial](https://www.youtube.com/watch?v=pbGA-B_SCVk)](https://mrcloudbook.com/netflix-clone-ci-cd-with-monitoring-email-devsecops/)
+# **Youtube Video for step by step Demonstration**
+[![Video Tutorial](https://www.youtube.com/watch?v=pbGA-B_SCVk)](https://www.youtube.com/watch?v=pbGA-B_SCVk)
+
+![WebPage Step by Step Guide by Mr CloudBook](https://mrcloudbook.com/netflix-clone-ci-cd-with-monitoring-email-devsecops/)
+
 
 ![Netflix Live](./screenshots/Netflix-live-two.png)
+
 
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
 
