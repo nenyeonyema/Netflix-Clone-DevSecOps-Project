@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./public/assets/Netflix-live-one.png" alt="Logo" width="100%" height="100%">
+  <img src="./public/assets/Netflix-live-one.png" alt="Netflix Live image" width="100%" height="100%">
 
   <br>
   <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
@@ -10,7 +10,7 @@
 <br />
 
 <div align="center">
-  <img src="./public/assets/Netflix-live-two.png" alt="Logo" width="100%" height="100%">
+  <img src="./public/assets/Netflix-live-two.png" alt="Netflix is Live" width="100%" height="100%">
   <p align="center">Home Page</p>
 </div>
 
@@ -20,7 +20,7 @@
 [WebPage Step by Step Guide by Mr CloudBook](https://mrcloudbook.com/netflix-clone-ci-cd-with-monitoring-email-devsecops/)
 
 
-![Netflix Live](./screenshots/Netflix-live-two.png)
+
 
 
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
