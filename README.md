@@ -15,12 +15,11 @@
 </div>
 
 # **Youtube Video for step by step Demonstration**
-[![Video Tutorial](https://www.youtube.com/watch?v=pbGA-B_SCVk)](https://www.youtube.com/watch?v=pbGA-B_SCVk)
-
+[![Video Tutorial](https://img.youtube.com/vi/pbGA-B_SCVk/maxresdefault.jpg)](https://www.youtube.com/watch?v=pbGA-B_SCVk)
 ![WebPage Step by Step Guide by Mr CloudBook](https://mrcloudbook.com/netflix-clone-ci-cd-with-monitoring-email-devsecops/)
 
 
-![Netflix Live](./screenshots/Netflix-live-two.png)
+[Netflix Live](./screenshots/Netflix-live-two.png)
 
 
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
